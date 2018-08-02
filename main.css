@@ -1,0 +1,13 @@
+h3{margin:10px 0 5px;}
+ul,ol{margin:5px 0;}
+a{color:#0366d6;text-decoration: none;}
+a:hover{text-decoration: underline;}
+table{
+  border-collapse: collapse;
+}
+table td{
+  border:1px solid black;
+  padding:5px 20px;
+}
+table tr:first-child{font-weight: bold;text-align: center;}
+table tr:nth-child(2n){background-color: #e8e8e8;}
