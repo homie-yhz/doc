@@ -5,6 +5,9 @@
 |-|-|
 |git log|查看所有的commit-id 列表|
 |git show commit-id|显示某次提交的具体内容|
+
+|git checkout -- filename|.|撤销工作区的文件更改或者所有的文件更改|
+|git reset HEAD filename||
 |git diff|比较工作区与暂存区|
 |git diff --cached|比较暂存区与最新本地版本库|
 |git diff HEAD|比较工作区与最新本地版本库|
