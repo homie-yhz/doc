@@ -5,4 +5,5 @@
 npm install -g @vue/cli
 vue create my-project
 测试文字
+提交到暂存区
 ```
