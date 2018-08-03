@@ -4,6 +4,4 @@
 ```
 npm install -g @vue/cli
 vue create my-project
-测试
-
 ```
